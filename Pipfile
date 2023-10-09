@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+gunicorn = "*"
+python-dotenv = "*"
+whitenoise = "*"
+django-admin-datta = "==1.0.10"
+django-dynamic-datatb = "==1.0.25"
+django-api-generator = "==1.0.17"
+djando = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
